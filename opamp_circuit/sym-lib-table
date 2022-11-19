@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "conn_02x03_counter_clockwise")(type "KiCad")(uri "${KIPRJMOD}/conn_02x03_counter_clockwise.kicad_sym")(options "")(descr ""))
+  (lib (name "created_lib")(type "KiCad")(uri "${KIPRJMOD}/created_lib.kicad_sym")(options "")(descr ""))
+)
